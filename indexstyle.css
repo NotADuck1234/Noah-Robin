@@ -1,0 +1,16 @@
+html, body{
+    font-family: roboto;
+    background-color: gray;
+    margin: 0px;
+}
+
+.nav-bar {
+    background-color: yellow;
+    display:flex;
+    justify-content: space-around
+
+}
+
+.nav-bara {
+    background-color: white;
+}
